@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Search</string>
+    <string name="content_description_search">this is to fine the names</string>
+    <string name="page_title">Voters List</string>
+    <string name="search_hint">the hint</string>
+    <string name="label">Voters ID</string>
+</resources>
