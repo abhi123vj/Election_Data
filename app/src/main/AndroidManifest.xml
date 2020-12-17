@@ -11,8 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ElectionData">
         <activity android:name=".MainActivity">
-            <meta-data android:name="android.app.searchable"
-                android:resource="@xml/searchable" />
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
